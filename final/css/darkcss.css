@@ -1,0 +1,11 @@
+:root[theme = 'dark']{
+    --main-blue: rgb(57, 102, 102);
+    --border-color: #403f3f;
+    --main-light-color: #b0a596;
+    --main-red: #945a45;
+    --light-grey: #858484;
+    --block-back: #767573;
+    --main-dark:#c9d2da;
+    --load-color:#417529;
+    --load-back:#1f2617fb;
+}
